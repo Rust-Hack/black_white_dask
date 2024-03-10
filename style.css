@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    padding-top: 20px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 250px;
+}
+
+#my-table {
+    padding-left: 18px;
+    margin-top: 20px;
+}
+
+.div2 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+h1 {
+    height: 30px;
+}
+
+button {
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+
+/* th {
+    width: 10px;
+} */
+
+td {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+}
